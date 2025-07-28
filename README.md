@@ -69,8 +69,3 @@ To further strengthen the setup, **Fail2Ban** was integrated to automatically bl
 In conclusion, the project successfully demonstrates the deployment and operation of a honeypot server using **Cowrie** to detect and analyze attack patterns on a server.
 By logging connection attempts and attacker behavior, the honeypot offers valuable insight into potential threats. Integration with **Fail2Ban** adds an active defense layer, preventing repeated brute-force attacks from the same source.
 
-
-
----
-
-Let me know if you want this as a downloadable `.md` file.
